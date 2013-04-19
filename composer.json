@@ -1,5 +1,5 @@
 {
-    "name": "keis/JustSSH",
+    "name": "keis/just-ssh",
     "description": "libssh2 wrapper with minimal extra baggage",
     "license": "MIT",
     "require": {
